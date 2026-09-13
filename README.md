@@ -185,8 +185,8 @@ There are no `TODO` or `FIXME` comments in the source, and no comments of any ot
 
 ## Contributing
 
-This is a finished school assignment, so I'm not taking changes to it. If you're working through the same course and something in here is useful to you, take it. If I got something wrong in the list above, open an issue and I'll read it.
+This is a 2020 class assignment I've parked in an archive. I'm not taking changes to it and I'm not fixing anything in the list above, so read it as a record rather than as working code. The license lets you fork it and do whatever you want on your own copy.
 
 ## License
 
-MIT, see [LICENSE](LICENSE). Take it, change it, use it in your own coursework. Keep the copyright line and don't come to me when the cart prints the wrong price.
+MIT, see [LICENSE](LICENSE). Take it, change it, ship it. Keep the copyright line and don't come to me when the cart prints the wrong price.
